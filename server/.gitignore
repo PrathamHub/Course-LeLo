@@ -1,0 +1,26 @@
+# Dependency directories
+node_modules/
+
+# dotenv environment variables
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build output
+dist/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Database
+*.sqlite
+*.db
+
+# Others (if any)
